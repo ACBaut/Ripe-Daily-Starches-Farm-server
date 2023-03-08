@@ -21,6 +21,7 @@ and languages used:
 - HTML
 - CSS
 - PHP
+- SQL
 
 Before this, I had no experience working using front-end languages such as HTML/CSS or directly speaking with a backend using PHP. This was also
 my first time using any AWS services as a remote server and learning how to set it up and commuicate with it had some growing pains, but I came out 
