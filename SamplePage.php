@@ -2,7 +2,7 @@
 <html>
 <body>
     <h1>
-        Add New Employee
+        Page used as an example
     </h1>
     <a href="http://ec2-3-19-243-226.us-east-2.compute.amazonaws.com">Return to Home Page</a>
 <?php

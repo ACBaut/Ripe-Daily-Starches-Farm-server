@@ -1,4 +1,4 @@
-<?php include "dbinfo.inc";?>
+<?php include "./dbinfo.inc";?>
 
 <!DOCTYPE html>
 <html>
@@ -38,7 +38,8 @@
 <body style="background-color:powderblue;">
 </head>
 <h1>Employee Records</h1>
-<a href="http://ec2-3-19-243-226.us-east-2.compute.amazonaws.com">Return to Home</a>
+<!-- <a href="http://ec2-3-19-243-226.us-east-2.compute.amazonaws.com">Return to Home</a> -->
+<a href="/index.html">Return to Home</a>
 <p>This is where you can find information on all current employees of RDS Farms.</p>
 
 <?php

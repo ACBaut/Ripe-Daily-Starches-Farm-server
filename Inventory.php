@@ -1,4 +1,4 @@
-<?php include "../inc/dbinfo.inc"; ?>
+<?php include "./dbinfo.inc"; ?>
 <html>
 <head>
   <style type="text/css">
@@ -34,7 +34,8 @@
       height: 30px;
     }
     </style>
-  <a href="http://ec2-3-19-243-226.us-east-2.compute.amazonaws.com">Return to Home Page</a>
+  <!-- <a href="http://ec2-3-19-243-226.us-east-2.compute.amazonaws.com">Return to Home Page</a> -->
+  <a href="/index.html">Return to Home Page</a>
   <h1>
     Inventory Page
   </h1>
